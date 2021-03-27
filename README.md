@@ -14,7 +14,7 @@ Firstly, install all the dependencies by doing
 ```
 npm install
 ```
-Next, open template_config.json and fill out all the data. 
+Next, open template_config.json and fill out all the data the rename it to just config.json.
 ### Put the public google API key into html/captcha.html at data-sitekey
 
 If you've set it up all correctly run npm start and it will run.
