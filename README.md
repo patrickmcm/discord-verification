@@ -21,4 +21,4 @@ Then go to the Bot tab and tick "SERVER MEMBERS INTENT"
 
 ### Put the public google API key into html/captcha.html at data-sitekey
 
-If you've set it up all correctly run npm start and it will run.
+Then just put it on your vps, or a hosting website like heroku.
