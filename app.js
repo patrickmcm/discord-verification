@@ -17,7 +17,7 @@ client.on('ready', () => {
 client.on('guildMemberAdd', member => {
     const embed = new Discord.MessageEmbed()
         .setTitle("Verification")
-        .setDescription("This server uses an automated reCAPTCHA v2 verification system. [Get Verified](https://localhost:3000/verify)") // make sure to replace with your endpoint
+        .setDescription("This server uses an automated reCAPTCHA v2 verification system. [Get Verified](${config.redirect_uri})") // make sure to replace with your endpoint
         .setColor("#2F3136")
         .setFooter("Verification systems","https://i.imgur.com/IZIKIo8.png")
     member.send(embed);
