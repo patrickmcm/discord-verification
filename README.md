@@ -10,6 +10,8 @@ Simple verification system I made using djs, express and request.
 
 ## Setup
 
+If you prefer, a video was made on setup, view it [here](https://youtu.be/SbhRdsi1ffM)
+
 Firstly, install all the dependencies by doing 
 ```
 npm install
