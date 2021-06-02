@@ -10,7 +10,7 @@ Simple verification system I made using djs, express and request.
 
 ## Setup
 
-If you prefer, a video was made on setup, view it [here](https://youtu.be/SbhRdsi1ffM)
+If you prefer, a video was made on setup, view it [here](https://youtu.be/P1Wmgnnl4OI)
 
 Firstly, install all the dependencies by doing 
 ```
